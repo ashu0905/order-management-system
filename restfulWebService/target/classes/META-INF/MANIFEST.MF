@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: adash
+Build-Jdk: 16.0.2
+Implementation-Title: spring-boot-2-rest-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.in28minutes.springboot.rest.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/spring-boot-2
+ -rest-service-basic
+Created-By: Maven Integration for Eclipse
+
